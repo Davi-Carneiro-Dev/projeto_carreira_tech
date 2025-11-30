@@ -1,0 +1,7 @@
+# Ignore JetBrains IDE project files
+.idea/
+*.iml
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
