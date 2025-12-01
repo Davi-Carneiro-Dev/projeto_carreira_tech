@@ -1,7 +1,8 @@
-# Ignore JetBrains IDE project files
 .idea/
-*.iml
-
-# Optional: OS files
+__pycache__/
+*.pyc
+env/
+venv/
+.env
 .DS_Store
-Thumbs.db
+
